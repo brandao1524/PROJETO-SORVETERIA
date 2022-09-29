@@ -1,4 +1,5 @@
 RUN DO NOSSO PROJETO FINALIZADO. CRIADO COM REACT.
+https://projeto-sorveteria.netlify.app/
 
 ![pagina-sobre](https://user-images.githubusercontent.com/106616102/193101610-0c553886-c0c7-43ab-8ffd-2cc94182e9b1.png)
 
